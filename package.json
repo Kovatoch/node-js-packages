@@ -1,5 +1,5 @@
 {
-  "name": "@github.com/kovatoch/node-js-packages",
+  "name": "@kovatoch/node-js-packages",
     "version": "1.0.0",
     "description": "this is a test",
     "main": "index.js",
